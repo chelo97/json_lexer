@@ -1,0 +1,9 @@
+INSTRUCCIONES DE USO:
+1. Descargar e instalar python >= 3.8.3
+2. Instalar en python la libreria ply >= 3.11, desde el cmd se puede instalar con el siguiente comando:
+    pip install ply
+3. Dirigirse a la carpeta donde se encuentre la carpeta del proyecto desde el cmd.
+    ej: cd D:\Marcelo\Politecnica\Compiladores\json_lexer
+4. Escribir python test.py, los resultados podra verificar en la carpeta /tests dentro del proyecto en el archivo generado output.log
+
+OBS: El archivo fuente para la pruebas se encuentra dentro del proyecto, en la carpeta /tests
